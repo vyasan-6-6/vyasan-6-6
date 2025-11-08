@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **MERN ,MEAN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vyasanksparasakthy@gmail.com**
 
